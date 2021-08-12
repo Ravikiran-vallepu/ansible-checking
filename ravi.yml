@@ -1,0 +1,9 @@
+# ansible play book
+ 
+---
+   hosts:
+   name:
+   tasks:
+      name: downlonding jenkins
+       yum: wget 
+
